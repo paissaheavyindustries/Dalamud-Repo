@@ -6,6 +6,7 @@
     "InternalName": "WheresMouse",
     "AssemblyVersion": "0.9.0.0",
     "RepoUrl": "https://github.com/paissaheavyindustries/WheresMouse",
+    "IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/wheresmouse.png",
     "ApplicableVersion": "any",
     "Tags": [
       "mouse", "accessibility", "meow"
