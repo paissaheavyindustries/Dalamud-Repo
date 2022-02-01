@@ -12,8 +12,8 @@ First, open Dalamud's plugin installer by writing `/xlplugins` ingame, then go t
 
 `https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/repo.json`
 
-![Example indicator](https://i.imgur.com/FGBSZFf.png)
+![Picture of Dalamud settings](https://i.imgur.com/FGBSZFf.png)
 
 Then hit "Save and Close", and you should be able to find the plugins on the list. Locate the plugin you want to install, and hit that Install button!
 
-![Example indicator](https://i.imgur.com/yWajAe1.png)
+![Picture of Dalamud plugin list](https://i.imgur.com/yWajAe1.png)
