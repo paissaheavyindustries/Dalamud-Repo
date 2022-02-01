@@ -17,3 +17,9 @@ First, open Dalamud's plugin installer by writing `/xlplugins` ingame, then go t
 Then hit "Save and Close", and you should be able to find the plugins on the list. Locate the plugin you want to install, and hit that Install button!
 
 ![Picture of Dalamud plugin list](https://i.imgur.com/yWajAe1.png)
+
+## Support / Discord
+
+There's a publicly available Discord server for announcements, suggestions, and questions - feel free to join at:
+
+https://discord.gg/6f9MY55
