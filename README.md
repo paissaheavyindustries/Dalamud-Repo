@@ -6,7 +6,7 @@ This repository serves as a centralized Dalamud plugin repository for things I m
 
 [Where's Mouse?](https://github.com/paissaheavyindustries/WheresMouse): An accessibility plugin to help you locate your mouse cursor when you need it the most.
 
-## How to install
+## How to use this repository
 
 First, open Dalamud's plugin installer by writing `/xlplugins` ingame, then go to Dalamud settings (bottom of the window), and add this custom repository to the list - it doesn't have to be the first one on the list of course:
 
