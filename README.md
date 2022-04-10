@@ -4,6 +4,7 @@ This repository serves as a centralized Dalamud plugin repository for things I m
 
 ## Plugins currently included
 
+[Telesto](https://github.com/paissaheavyindustries/Telesto): This plugin allows Triggernometry (and other programs, why not) some means to interact with the game directly.
 [Where's Mouse?](https://github.com/paissaheavyindustries/WheresMouse): An accessibility plugin to help you locate your mouse cursor when you need it the most.
 
 ## How to use this repository
