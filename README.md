@@ -10,6 +10,8 @@ This repository serves as a centralized Dalamud plugin repository for things I m
 
 [Chibi Omega](https://github.com/paissaheavyindustries/Chibi-Omega): Makes Omega smaller!
 
+[Tallafell](https://github.com/paissaheavyindustries/Tallafell): Makes Lalafell taller!
+
 ## How to use this repository
 
 First, open Dalamud's plugin installer by writing `/xlplugins` ingame, then go to Dalamud settings (bottom of the window), and add this custom repository to the list - it doesn't have to be the first one on the list of course:
