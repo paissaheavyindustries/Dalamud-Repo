@@ -2,9 +2,9 @@
 	{
 		"Author": "Paissa Heavy Industries",
 		"Name": "Lemegeton",
-		"Description": "This plugin allows Triggernometry (and other programs, why not) some means to interact with the game directly.",
+		"Description": "Your ultimate ingame companion; spells and enchantments to make your gameplay experience a little more magical.",
 		"InternalName": "Lemegeton",
-		"AssemblyVersion": "0.9.8.4",
+		"AssemblyVersion": "1.0.0.0",
 		"RepoUrl": "https://github.com/paissaheavyindustries/TLemegeton",
 		"IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/lemegeton.png",
 		"ApplicableVersion": "any",
