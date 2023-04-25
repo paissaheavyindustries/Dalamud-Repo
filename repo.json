@@ -25,7 +25,7 @@
 		"Name": "Telesto",
 		"Description": "This plugin allows Triggernometry (and other programs, why not) some means to interact with the game directly.",
 		"InternalName": "Telesto",
-		"AssemblyVersion": "0.9.8.4",
+		"AssemblyVersion": "1.0.0.0",
 		"RepoUrl": "https://github.com/paissaheavyindustries/Telesto",
 		"IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/telesto.png",
 		"ApplicableVersion": "any",
@@ -37,9 +37,9 @@
 		"IsTestingExclusive": "False",
 		"LastUpdated": 0,
 		"DownloadCount": 0,
-		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.8.4/Telesto_0_9_8_4.zip",
-		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.8.4/Telesto_0_9_8_4.zip",
-		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.8.4/Telesto_0_9_8_4.zip"
+		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/Telesto/releases/download/v1.0.0.0/Telesto_1_0_0_0.zip",
+		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/Telesto/releases/download/v1.0.0.0/Telesto_1_0_0_0.zip",
+		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Telesto/releases/download/v1.0.0.0/Telesto_1_0_0_0.zip"
 	},
 	{
 		"Author": "Paissa Heavy Industries",
@@ -53,7 +53,7 @@
 		"Tags": [
 			"mouse", "accessibility", "meow"
 		],
-		"DalamudApiLevel": 6,
+		"DalamudApiLevel": 8,
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
 		"LastUpdated": 0,
