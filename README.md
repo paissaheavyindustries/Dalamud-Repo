@@ -4,6 +4,8 @@ This repository serves as a centralized Dalamud plugin repository for things I m
 
 ## Plugins currently included
 
+[Lemegeton](https://github.com/paissaheavyindustries/Lemegeton): Lemegeton is a Dalamud plugin which is geared to be your ultimate ingame companion. With a wide variety of helpful features for all kinds of content, from day to day usage to ultimate raiding, you'll never want to queue into an instance or leave home without it! 
+
 [Telesto](https://github.com/paissaheavyindustries/Telesto): This plugin allows Triggernometry (and other programs, why not) some means to interact with the game directly.
 
 [Where's Mouse?](https://github.com/paissaheavyindustries/WheresMouse): An accessibility plugin to help you locate your mouse cursor when you need it the most.
