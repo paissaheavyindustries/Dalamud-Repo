@@ -46,7 +46,7 @@
 		"Name": "Where's Mouse?",
 		"Description": "An accessibility plugin to help you locate your mouse cursor when you need it the most.",
 		"InternalName": "WheresMouse",
-		"AssemblyVersion": "1.0.0.0",
+		"AssemblyVersion": "1.0.0.1",
 		"RepoUrl": "https://github.com/paissaheavyindustries/WheresMouse",
 		"IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/wheresmouse.png",
 		"ApplicableVersion": "any",
@@ -58,9 +58,9 @@
 		"IsTestingExclusive": "False",
 		"LastUpdated": 0,
 		"DownloadCount": 0,
-		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/WheresMouse/releases/download/v1.0.0.0/WheresMouse_1_0_0_0.zip",
-		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/WheresMouse/releases/download/v1.0.0.0/WheresMouse_1_0_0_0.zip",
-		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/WheresMouse/releases/download/v1.0.0.0/WheresMouse_1_0_0_0.zip"
+		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/WheresMouse/releases/download/v1.0.0.1/WheresMouse_1_0_0_1.zip",
+		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/WheresMouse/releases/download/v1.0.0.1/WheresMouse_1_0_0_1.zip",
+		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/WheresMouse/releases/download/v1.0.0.1/WheresMouse_1_0_0_1.zip"
 	},
 	{
 		"Author": "Paissa Heavy Industries",
