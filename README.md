@@ -36,7 +36,7 @@ This will keep older versions available until Dalamud CN catches up in API level
 
 ## How to use this repository (KR)
 
-This will keep older versions available until Dalamud CN catches up in API level/features.
+This will keep older versions available until Dalamud KR catches up in API level/features.
 
 `https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/repo_kr.json`
 
