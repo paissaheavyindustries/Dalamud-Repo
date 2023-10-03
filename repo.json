@@ -4,21 +4,21 @@
 		"Name": "Lemegeton",
 		"Description": "Your ultimate ingame companion; spells and enchantments to make your gameplay experience a little more magical.",
 		"InternalName": "Lemegeton",
-		"AssemblyVersion": "1.0.1.9",
+		"AssemblyVersion": "1.0.2.0",
 		"RepoUrl": "https://github.com/paissaheavyindustries/Lemegeton",
 		"IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/lemegeton.png",
 		"ApplicableVersion": "any",
 		"Tags": [
 			"meow"
 		],
-		"DalamudApiLevel": 8,
+		"DalamudApiLevel": 9,
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
 		"LastUpdated": 0,
 		"DownloadCount": 0,
-		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.1.9/Lemegeton_1_0_1_9.zip",
-		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.1.9/Lemegeton_1_0_1_9.zip",
-		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.1.9/Lemegeton_1_0_1_9.zip"
+		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.2.0/Lemegeton_1_0_2_0.zip",
+		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.2.0/Lemegeton_1_0_2_0.zip",
+		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.2.0/Lemegeton_1_0_2_0.zip"
 	},	
 	{
 		"Author": "Paissa Heavy Industries",
@@ -32,14 +32,14 @@
 		"Tags": [
 			"telesto", "prrp", "trigger", "triggernometry", "meow"
 		],
-		"DalamudApiLevel": 8,
+		"DalamudApiLevel": 9,
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
 		"LastUpdated": 0,
 		"DownloadCount": 0,
-		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/Telesto/releases/download/v1.0.0.0/Telesto_1_0_0_0.zip",
-		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/Telesto/releases/download/v1.0.0.0/Telesto_1_0_0_0.zip",
-		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Telesto/releases/download/v1.0.0.0/Telesto_1_0_0_0.zip"
+		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/Telesto/releases/download/v1.0.0.1/Telesto_1_0_0_1.zip",
+		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/Telesto/releases/download/v1.0.0.1/Telesto_1_0_0_1.zip",
+		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Telesto/releases/download/v1.0.0.1/Telesto_1_0_0_1.zip"
 	},
 	{
 		"Author": "Paissa Heavy Industries",
@@ -53,14 +53,14 @@
 		"Tags": [
 			"mouse", "accessibility", "meow"
 		],
-		"DalamudApiLevel": 8,
+		"DalamudApiLevel": 9,
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
 		"LastUpdated": 0,
 		"DownloadCount": 0,
-		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/WheresMouse/releases/download/v1.0.0.1/WheresMouse_1_0_0_1.zip",
-		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/WheresMouse/releases/download/v1.0.0.1/WheresMouse_1_0_0_1.zip",
-		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/WheresMouse/releases/download/v1.0.0.1/WheresMouse_1_0_0_1.zip"
+		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/WheresMouse/releases/download/v1.0.0.2/WheresMouse_1_0_0_2.zip",
+		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/WheresMouse/releases/download/v1.0.0.2/WheresMouse_1_0_0_2.zip",
+		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/WheresMouse/releases/download/v1.0.0.2/WheresMouse_1_0_0_2.zip"
 	},
 	{
 		"Author": "Paissa Heavy Industries",
@@ -74,14 +74,14 @@
 		"Tags": [
 			"omega", "smolmega", "cute", "meow"
 		],
-		"DalamudApiLevel": 8,
+		"DalamudApiLevel": 9,
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
 		"LastUpdated": 0,
 		"DownloadCount": 0,
-		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/Chibi-Omega/releases/download/v1.0.1.0/Chibi_Omega_1_0_1_0.zip",
-		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/Chibi-Omega/releases/download/v1.0.1.0/Chibi_Omega_1_0_1_0.zip",
-		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Chibi-Omega/releases/download/v1.0.1.0/Chibi_Omega_1_0_1_0.zip"
+		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/Chibi-Omega/releases/download/v1.0.1.1/Chibi_Omega_1_0_1_1.zip",
+		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/Chibi-Omega/releases/download/v1.0.1.1/Chibi_Omega_1_0_1_1.zip",
+		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Chibi-Omega/releases/download/v1.0.1.1/Chibi_Omega_1_0_1_1.zip"
 	},
 	{
 		"Author": "Paissa Heavy Industries",
@@ -95,13 +95,13 @@
 		"Tags": [
 			"lalafell", "tol", "tallafell", "cursed", "creepy", "nope", "every day we stray further from god's light", "meow"
 		],
-		"DalamudApiLevel": 8,
+		"DalamudApiLevel": 9,
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
 		"LastUpdated": 0,
 		"DownloadCount": 0,
-		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/Tallafell/releases/download/v1.0.0.0/Tallafell_1_0_0_0.zip",
-		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/Tallafell/releases/download/v1.0.0.0/Tallafell_1_0_0_0.zip",
-		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Tallafell/releases/download/v1.0.0.0/Tallafell_1_0_0_0.zip"
+		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/Tallafell/releases/download/v1.0.0.0/Tallafell_1_0_0_1.zip",
+		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/Tallafell/releases/download/v1.0.0.0/Tallafell_1_0_0_1.zip",
+		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Tallafell/releases/download/v1.0.0.0/Tallafell_1_0_0_1.zip"
 	}
 ]
