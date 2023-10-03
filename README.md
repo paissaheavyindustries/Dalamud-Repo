@@ -14,7 +14,9 @@ This repository serves as a centralized Dalamud plugin repository for things I m
 
 [Tallafell](https://github.com/paissaheavyindustries/Tallafell): Makes Lalafell taller!
 
-## How to use this repository
+## How to use this repository (EN/FR/DE/JP)
+
+Please note that if you are playing the CN or KR version of the game, you can't use this repo address! Please scroll lower for your correct regional version.
 
 First, open Dalamud's plugin installer by writing `/xlplugins` ingame, then go to Dalamud settings (bottom of the window), and add this custom repository to the list - it doesn't have to be the first one on the list of course:
 
@@ -25,6 +27,18 @@ First, open Dalamud's plugin installer by writing `/xlplugins` ingame, then go t
 Then hit "Save and Close", and you should be able to find the plugins on the list. Locate the plugin you want to install, and hit that Install button!
 
 ![Picture of Dalamud plugin list](https://i.imgur.com/yWajAe1.png)
+
+## How to use this repository (CN)
+
+This will keep older versions available until Dalamud CN catches up in API level/features.
+
+`https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/repo_cn.json`
+
+## How to use this repository (KR)
+
+This will keep older versions available until Dalamud CN catches up in API level/features.
+
+`https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/repo_kr.json`
 
 ## Support / Discord
 
