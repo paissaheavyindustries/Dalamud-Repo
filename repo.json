@@ -46,42 +46,42 @@
 		"Name": "Where's Mouse?",
 		"Description": "An accessibility plugin to help you locate your mouse cursor when you need it the most.",
 		"InternalName": "WheresMouse",
-		"AssemblyVersion": "1.0.0.3",
+		"AssemblyVersion": "1.0.0.4",
 		"RepoUrl": "https://github.com/paissaheavyindustries/WheresMouse",
 		"IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/wheresmouse.png",
 		"ApplicableVersion": "any",
 		"Tags": [
 			"mouse", "accessibility", "meow"
 		],
-		"DalamudApiLevel": 9,
+		"DalamudApiLevel": 10,
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
 		"LastUpdated": 0,
 		"DownloadCount": 0,
-		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/WheresMouse/releases/download/v1.0.0.3/WheresMouse_1_0_0_3.zip",
-		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/WheresMouse/releases/download/v1.0.0.3/WheresMouse_1_0_0_3.zip",
-		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/WheresMouse/releases/download/v1.0.0.3/WheresMouse_1_0_0_3.zip"
+		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/WheresMouse/releases/download/v1.0.0.4/WheresMouse_1_0_0_4.zip",
+		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/WheresMouse/releases/download/v1.0.0.4/WheresMouse_1_0_0_4.zip",
+		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/WheresMouse/releases/download/v1.0.0.4/WheresMouse_1_0_0_4.zip"
 	},
 	{
 		"Author": "Paissa Heavy Industries",
 		"Name": "Chibi Omega",
 		"Punchline": "Aww, he's so cute! But don't let his diminished stature fool you; his damage output has not scaled to match.",
 		"InternalName": "Chibi Omega",
-		"AssemblyVersion": "1.0.1.1",
+		"AssemblyVersion": "1.0.1.2",
 		"RepoUrl": "https://github.com/paissaheavyindustries/Chibi-Omega",
 		"IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/chibi_omega.png",
 		"ApplicableVersion": "any",
 		"Tags": [
 			"omega", "smolmega", "cute", "meow"
 		],
-		"DalamudApiLevel": 9,
+		"DalamudApiLevel": 10,
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
 		"LastUpdated": 0,
 		"DownloadCount": 0,
-		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/Chibi-Omega/releases/download/v1.0.1.1/Chibi_Omega_1_0_1_1.zip",
-		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/Chibi-Omega/releases/download/v1.0.1.1/Chibi_Omega_1_0_1_1.zip",
-		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Chibi-Omega/releases/download/v1.0.1.1/Chibi_Omega_1_0_1_1.zip"
+		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/Chibi-Omega/releases/download/v1.0.1.2/Chibi_Omega_1_0_1_2.zip",
+		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/Chibi-Omega/releases/download/v1.0.1.2/Chibi_Omega_1_0_1_2.zip",
+		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Chibi-Omega/releases/download/v1.0.1.2/Chibi_Omega_1_0_1_2.zip"
 	},
 	{
 		"Author": "Paissa Heavy Industries",
