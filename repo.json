@@ -25,21 +25,21 @@
 		"Name": "Telesto",
 		"Description": "This plugin allows Triggernometry (and other programs, why not) some means to interact with the game directly.",
 		"InternalName": "Telesto",
-		"AssemblyVersion": "1.0.0.4",
+		"AssemblyVersion": "1.0.0.5",
 		"RepoUrl": "https://github.com/paissaheavyindustries/Telesto",
 		"IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/telesto.png",
 		"ApplicableVersion": "any",
 		"Tags": [
 			"telesto", "prrp", "trigger", "triggernometry", "meow"
 		],
-		"DalamudApiLevel": 10,
+		"DalamudApiLevel": 11,
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
 		"LastUpdated": 0,
 		"DownloadCount": 0,
-		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/Telesto/releases/download/v1.0.0.4/Telesto_1_0_0_4.zip",
-		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/Telesto/releases/download/v1.0.0.4/Telesto_1_0_0_4.zip",
-		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Telesto/releases/download/v1.0.0.4/Telesto_1_0_0_4.zip"
+		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/Telesto/releases/download/v1.0.0.5/Telesto_1_0_0_5.zip",
+		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/Telesto/releases/download/v1.0.0.5/Telesto_1_0_0_5.zip",
+		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Telesto/releases/download/v1.0.0.5/Telesto_1_0_0_5.zip"
 	},
 	{
 		"Author": "Paissa Heavy Industries",
