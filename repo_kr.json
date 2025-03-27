@@ -4,104 +4,104 @@
 		"Name": "Lemegeton",
 		"Description": "Your ultimate ingame companion; spells and enchantments to make your gameplay experience a little more magical.",
 		"InternalName": "Lemegeton",
-		"AssemblyVersion": "1.0.1.9",
+		"AssemblyVersion": "1.0.6.2",
 		"RepoUrl": "https://github.com/paissaheavyindustries/Lemegeton",
 		"IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/lemegeton.png",
 		"ApplicableVersion": "any",
 		"Tags": [
 			"meow"
 		],
-		"DalamudApiLevel": 8,
+		"DalamudApiLevel": 11,
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
 		"LastUpdated": 0,
 		"DownloadCount": 0,
-		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.1.9/Lemegeton_1_0_1_9.zip",
-		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.1.9/Lemegeton_1_0_1_9.zip",
-		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.1.9/Lemegeton_1_0_1_9.zip"
+		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.6.2/Lemegeton_1_0_6_2.zip",
+		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.6.2/Lemegeton_1_0_6_2.zip",
+		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.6.2/Lemegeton_1_0_6_2.zip"
 	},	
 	{
 		"Author": "Paissa Heavy Industries",
 		"Name": "Telesto",
 		"Description": "This plugin allows Triggernometry (and other programs, why not) some means to interact with the game directly.",
 		"InternalName": "Telesto",
-		"AssemblyVersion": "1.0.0.0",
+		"AssemblyVersion": "1.0.0.6",
 		"RepoUrl": "https://github.com/paissaheavyindustries/Telesto",
 		"IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/telesto.png",
 		"ApplicableVersion": "any",
 		"Tags": [
 			"telesto", "prrp", "trigger", "triggernometry", "meow"
 		],
-		"DalamudApiLevel": 8,
+		"DalamudApiLevel": 11,
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
 		"LastUpdated": 0,
 		"DownloadCount": 0,
-		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/Telesto/releases/download/v1.0.0.0/Telesto_1_0_0_0.zip",
-		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/Telesto/releases/download/v1.0.0.0/Telesto_1_0_0_0.zip",
-		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Telesto/releases/download/v1.0.0.0/Telesto_1_0_0_0.zip"
+		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/Telesto/releases/download/v1.0.0.6/Telesto_1_0_0_6.zip",
+		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/Telesto/releases/download/v1.0.0.6/Telesto_1_0_0_6.zip",
+		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Telesto/releases/download/v1.0.0.6/Telesto_1_0_0_6.zip"
 	},
 	{
 		"Author": "Paissa Heavy Industries",
 		"Name": "Where's Mouse?",
 		"Description": "An accessibility plugin to help you locate your mouse cursor when you need it the most.",
 		"InternalName": "WheresMouse",
-		"AssemblyVersion": "1.0.0.1",
+		"AssemblyVersion": "1.0.0.5",
 		"RepoUrl": "https://github.com/paissaheavyindustries/WheresMouse",
 		"IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/wheresmouse.png",
 		"ApplicableVersion": "any",
 		"Tags": [
 			"mouse", "accessibility", "meow"
 		],
-		"DalamudApiLevel": 8,
+		"DalamudApiLevel": 11,
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
 		"LastUpdated": 0,
 		"DownloadCount": 0,
-		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/WheresMouse/releases/download/v1.0.0.1/WheresMouse_1_0_0_1.zip",
-		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/WheresMouse/releases/download/v1.0.0.1/WheresMouse_1_0_0_1.zip",
-		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/WheresMouse/releases/download/v1.0.0.1/WheresMouse_1_0_0_1.zip"
+		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/WheresMouse/releases/download/v1.0.0.5/WheresMouse_1_0_0_5.zip",
+		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/WheresMouse/releases/download/v1.0.0.5/WheresMouse_1_0_0_5.zip",
+		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/WheresMouse/releases/download/v1.0.0.5/WheresMouse_1_0_0_5.zip"
 	},
 	{
 		"Author": "Paissa Heavy Industries",
 		"Name": "Chibi Omega",
 		"Punchline": "Aww, he's so cute! But don't let his diminished stature fool you; his damage output has not scaled to match.",
 		"InternalName": "Chibi Omega",
-		"AssemblyVersion": "1.0.1.0",
+		"AssemblyVersion": "1.0.1.3",
 		"RepoUrl": "https://github.com/paissaheavyindustries/Chibi-Omega",
 		"IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/chibi_omega.png",
 		"ApplicableVersion": "any",
 		"Tags": [
 			"omega", "smolmega", "cute", "meow"
 		],
-		"DalamudApiLevel": 8,
+		"DalamudApiLevel": 11,
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
 		"LastUpdated": 0,
 		"DownloadCount": 0,
-		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/Chibi-Omega/releases/download/v1.0.1.0/Chibi_Omega_1_0_1_0.zip",
-		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/Chibi-Omega/releases/download/v1.0.1.0/Chibi_Omega_1_0_1_0.zip",
-		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Chibi-Omega/releases/download/v1.0.1.0/Chibi_Omega_1_0_1_0.zip"
+		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/Chibi-Omega/releases/download/v1.0.1.3/Chibi_Omega_1_0_1_3.zip",
+		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/Chibi-Omega/releases/download/v1.0.1.3/Chibi_Omega_1_0_1_3.zip",
+		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Chibi-Omega/releases/download/v1.0.1.3/Chibi_Omega_1_0_1_3.zip"
 	},
 	{
 		"Author": "Paissa Heavy Industries",
 		"Name": "Tallafell",
 		"Punchline": "They hide inside bosses' legs! Clothing! Other players! No longer, I say -- it's time to put an end to the Lalafell menace.",
 		"InternalName": "Tallafell",
-		"AssemblyVersion": "1.0.0.0",
+		"AssemblyVersion": "1.0.0.2",
 		"RepoUrl": "https://github.com/paissaheavyindustries/Tallafell",
 		"IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/tallafell.png",
 		"ApplicableVersion": "any",
 		"Tags": [
 			"lalafell", "tol", "tallafell", "cursed", "creepy", "nope", "every day we stray further from god's light", "meow"
 		],
-		"DalamudApiLevel": 8,
+		"DalamudApiLevel": 11,
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
 		"LastUpdated": 0,
 		"DownloadCount": 0,
-		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/Tallafell/releases/download/v1.0.0.0/Tallafell_1_0_0_0.zip",
-		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/Tallafell/releases/download/v1.0.0.0/Tallafell_1_0_0_0.zip",
-		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Tallafell/releases/download/v1.0.0.0/Tallafell_1_0_0_0.zip"
+		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/Tallafell/releases/download/v1.0.0.2/Tallafell_1_0_0_2.zip",
+		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/Tallafell/releases/download/v1.0.0.2/Tallafell_1_0_0_2.zip",
+		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Tallafell/releases/download/v1.0.0.2/Tallafell_1_0_0_2.zip"
 	}
 ]
