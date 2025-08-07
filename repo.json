@@ -88,20 +88,20 @@
 		"Name": "Tallafell",
 		"Punchline": "They hide inside bosses' legs! Clothing! Other players! No longer, I say -- it's time to put an end to the Lalafell menace.",
 		"InternalName": "Tallafell",
-		"AssemblyVersion": "1.0.0.3",
+		"AssemblyVersion": "1.0.0.4",
 		"RepoUrl": "https://github.com/paissaheavyindustries/Tallafell",
 		"IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/tallafell.png",
 		"ApplicableVersion": "any",
 		"Tags": [
 			"lalafell", "tol", "tallafell", "cursed", "creepy", "nope", "every day we stray further from god's light", "meow"
 		],
-		"DalamudApiLevel": 12,
+		"DalamudApiLevel": 13,
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
 		"LastUpdated": 0,
 		"DownloadCount": 0,
-		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/Tallafell/releases/download/v1.0.0.3/Tallafell_1_0_0_3.zip",
-		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/Tallafell/releases/download/v1.0.0.3/Tallafell_1_0_0_3.zip",
-		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Tallafell/releases/download/v1.0.0.3/Tallafell_1_0_0_3.zip"
+		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/Tallafell/releases/download/v1.0.0.4/Tallafell_1_0_0_4.zip",
+		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/Tallafell/releases/download/v1.0.0.4/Tallafell_1_0_0_4.zip",
+		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Tallafell/releases/download/v1.0.0.4/Tallafell_1_0_0_4.zip"
 	}
 ]
