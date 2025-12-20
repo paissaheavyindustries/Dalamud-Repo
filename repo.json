@@ -4,21 +4,21 @@
 		"Name": "Lemegeton",
 		"Description": "Your ultimate ingame companion; spells and enchantments to make your gameplay experience a little more magical.",
 		"InternalName": "Lemegeton",
-		"AssemblyVersion": "1.0.7.6",
+		"AssemblyVersion": "1.0.7.8",
 		"RepoUrl": "https://github.com/paissaheavyindustries/Lemegeton",
 		"IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/lemegeton.png",
 		"ApplicableVersion": "any",
 		"Tags": [
 			"meow"
 		],
-		"DalamudApiLevel": 13,
+		"DalamudApiLevel": 14,
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
 		"LastUpdated": 0,
 		"DownloadCount": 0,
-		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.7.6/Lemegeton_1_0_7_6.zip",
-		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.7.6/Lemegeton_1_0_7_6.zip",
-		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.7.6/Lemegeton_1_0_7_6.zip"
+		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.7.8/Lemegeton_1_0_7_8.zip",
+		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.7.8/Lemegeton_1_0_7_8.zip",
+		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.7.8/Lemegeton_1_0_7_8.zip"
 	},	
 	{
 		"Author": "Paissa Heavy Industries",
